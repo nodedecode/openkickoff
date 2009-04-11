@@ -381,11 +381,11 @@ The control is transferred to the main player. The keeper stands in the centre a
 JOYSTICK DIRECTIONS
 {{{
                                 JUMP
-                        DIVE     |      DIVE
-                           \            /
+                        DIVE     |     DIVE
+                           \           /
                    DIVE------  CATCH  ------DIVE
-                           /            \
-                        DIVE     |      DIVE
+                           /           \
+                        DIVE     |     DIVE
                                STOOP
 }}}
 ===11.2 TAKING GOAL KICKS===
@@ -396,9 +396,9 @@ There are 9 types of goal kicks :
 {{{
                                 HARD AHEAD
                       HARD LEFT     |      HARD RIGHT
-                            \               /
+                            \                /
              MEDIUM LEFT ----- MEDIUM AHEAD ----- MEDIUM RIGHT
-                            /               \
+                            /                \
                       SOFT LEFT     |      SOFT RIGHT
                                 SOFT AHEAD
 }}}							
@@ -462,20 +462,20 @@ There are two distinct J/S controls: BEFORE touching the ball and AFTER touching
 {{{
 BEFORE
                             Jump Over The Ball
-               Slight Left Bias     |       Slight Right Bias
-                            \                /
+           Slight Left Bias         |          Slight Right Bias
+                            \                 /
           More Left Bias ----- Straight Kick ----- More Right Bias
-                            /                \
-         Pass Ball To Left Player   |       Pass Ball To Right Player
+                            /                 \
+   Pass Ball To Left Player         |          Pass Ball To Right Player
                                 No Action
 
 AFTER
                                Dip The Ball
-        Dip And Swerve The Ball     |      Dip And Swerve The Ball
-                            \               /
-             Swerve Ball -----  No Action  ----- Swerve Ball
-                            /               \
-                     No Action      |      No Action
+       Dip And Swerve The Ball      |       Dip And Swerve The Ball
+                            \                /
+             Swerve Ball -----  No Action   ----- Swerve Ball
+                            /                \
+                     No Action      |       No Action
                                 No Action
 }}}
 Only the player taking the free kick has swerve control of the ball.
