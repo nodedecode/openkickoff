@@ -553,6 +553,7 @@ the centre and starts to  move  as  soon  as  the F.B is pressed.  The
 longer the F.B is kept pressed, the bigger the movement.
 
 JOYSTICK DIRECTIONS
+{{{
                                 JUMP
                         DIVE     |      DIVE
                            \            /
@@ -560,7 +561,7 @@ JOYSTICK DIRECTIONS
                            /            \
                         DIVE     |      DIVE
                                STOOP
-
+}}}
 ===11.2 TAKING GOAL KICKS===
 
 The keeper automatically takes the goal  kick unless the player wishes
