@@ -1,12 +1,14 @@
 #labels tools,development
 This page describes the set of tools used for developing this application and how to install/configure it.
 
+= Development tools =
+
 Here is the list of tools used in the development process
 
   * Eclipse IDE (http://www.eclipse.org/downloads/)
   * Java SE Development Kit (http://java.sun.com/javase/downloads/index.jsp)
   * Slick - 2D Game Library based on LWJGL (http://slick.cokeandcode.com/index.php)
-  * The Lightweight Java Game Library (LWJGL, http://www.lwjgl.org/)
+  * The Lightweight Java Game Library (http://www.lwjgl.org/)
   * EBuild - ant based generic build system for Java projects developed in Eclipse (http://ebuild.firefang.net/)
 
 How to use Eclipse to facilitate the process of deploying a Slick-based game using Java WebStart. For more background, refer to the following links. 
