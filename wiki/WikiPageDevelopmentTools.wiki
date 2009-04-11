@@ -17,5 +17,5 @@ Here is a list of useful links which helps me to setup my development environemn
   * Slick + Eclipse Tutorial (http://www.cs.bsu.edu/homepages/pvg/misc/slick_eclipse_tutorial.php)
   * Slick + Eclipse + JavaWebStart Tutorial (http://www.cs.bsu.edu/homepages/pvg/misc/slick_jws_tutorial.php)
   * Slick Wiki (http://slick.cokeandcode.com/wiki/doku.php?id=spiegel_tutorials)
-  * Slick instructions (http://wiki.github.com/aschearer/shade/slick-instructions)
+  * Slick Instructions (http://wiki.github.com/aschearer/shade/slick-instructions)
   * Eclipse Instructions (http://wiki.github.com/aschearer/shade/eclipse-instructions)
