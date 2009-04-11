@@ -1,4 +1,4 @@
-#labels Phase-Implementation,tools
+#labels Phase-Implementation,Featured,Tools
 This page describes the set of tools used for developing this application and how to install/configure it.
 
 = Development tools =
