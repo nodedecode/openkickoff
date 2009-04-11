@@ -6,7 +6,7 @@ This page intent to describes the Software Requirements Specification for the Op
 = Introduction =
 == Purpose ==
 
-Open Kick Off project aims to be at programming a free, open source, football game clone to legendary Dino Dini's Kick Off.
+Open Kick Off project aims to be at programming a free, open source, football game clone to legendary [http://en.wikipedia.org/wiki/Dino_Dini Dino Dini]'s [http://en.wikipedia.org/wiki/Kick_Off Kick Off].
 
 == Document conventions ==
 == Intended audience ==
