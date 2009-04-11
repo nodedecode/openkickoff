@@ -57,58 +57,55 @@ unlikely!
 
 There are 9 main menu options
 
-2.1 SINGLE GAME
+===SINGLE GAME===
 A single game can be between a  player and the computer or between two
 players.  Two players can team up  against the computer or against two
 other players.  A host of  options  are  available  to alter the match
 conditions and various permutations  of  the  options provide enormous
 variety of gameplay.
 
-2.2 THE LEAGUE
+===THE LEAGUE===
 There  is  a  league  of  8   teams  lasting  14  weeks.   The  league
 championship requires consistent excellence.   8  players  can play in
 the league which can be saved to be continued later.
 
-2.3 THE CUP
+===THE CUP===
 The cup tournament is played on  a  knock  out  basis.  If there is no
 result, extra time is played.  If there  is still no result, a penalty
 shoot-out decides the winner.
 
-2.4 INTERNATIONAL FRIENDLY
+===INTERNATIONAL FRIENDLY===
 This option allows you  to  play  a  single  match using international
 sides with their distinct styles of play.
 
-2.5 PRACTICE
+===PRACTICE===
 Practice mode allows one or  two  players  to practice ball skills and
 learn ball controls without being harassed by the opposition.
 
-2.6 OPTIONS
+===OPTIONS===
 The option menu sets the conditions for a Single Game or International
 Friendly.  The options must be selected before playing the game.
 
-2.7 SPECIAL EVENTS
+===SPECIAL EVENTS===
 This option is used for loading  data  disks  to be published at later
 dates.
 
-2.8 ACTION REPLAY
+===ACTION REPLAY===
 This option is used to edit a file  of action replay goals to create a
 golden goals disk.
 
-2.9 KIT DESIGN
+===KIT DESIGN===
 This option enables the design of custom kits for a single game only.
 
 ==THE OPTIONS==
 
 The options in this menu once set remain unchanged until changed.
 
-
-3.1 DURATION
-
+===DURATION===
 2x3, 2x5, 2x10 and 2x2
 The league and cup matches are 2x5 minutes.
 
-3.2 PITCH
-
+===PITCH===
 A choice of 4 playing surfaces are given:-
 
 Normal - Normal bounce and travel
@@ -120,19 +117,16 @@ Wet - Increased ball travel and speed
 Artificial - High  ball  bounce.   Increased  ball  speed  and travel.
 Reduced players stamina.
 
-3.3 WIND
-
+===WIND===
 A choice of 4 - Off, light, medium and strong.
 
-3.4 REPLACE TACTICS
-
+===REPLACE TACTICS===
 Each team can use a total of  4  tactics in a game.  These tactics can
 be replaced by 4 other  tactics  on  the  game  disk  or the data disk
 containing tactics designed by Player Manager.  See tactics (14.0) for
 more information.
 
-3.5 EXTRA TIME AND PENALTIES
-
+===EXTRA TIME AND PENALTIES===
 Yes or No, if the answer is  yes,  extra time proportional to the full
 time match duration is played if the result is a draw after full time.
 The extra time is in two halves and  the teams change ends at the half
@@ -141,8 +135,7 @@ out decides the result.
 This option is set to NO  in  the  league  matches and YES for the cup
 tournaments.
 
-3.6 SKILL LEVEL
-
+===SKILL LEVEL===
 Choice of 5  skill  levels  :  International,  1st,  2nd,  3rd and 4th
 Divisions.  The attributes and skills of the players correspond to the
 division.  In a single match, identical  squads are presented for both
@@ -155,24 +148,21 @@ tactics to play against another player or the computer at any of the 5
 skill levels or play against another Player Manager team.  See 5.0 for
 instructions.
 
-3.7 LEAGUE OPTIONS
-
+===LEAGUE OPTIONS===
 The skill level at which the league is played can be selected.  Choice
 of 3rd division, 1st division or international level.
 
-3.8 GAME SPEED
-
+===GAME SPEED===
 The speed of  the  game  can  be  changed.   At  reduced  speed, it is
 possible to play  a  very  tactical  game  and  see  how  your tactics
 actually work and the response of your opponents.  There are 3 options
 : Normal, Medium and Slow.
 
-3.9 AFTER TOUCH
-
+===AFTER TOUCH===
 Yes or No, if the answer is yes, the ball direction can be altered for
 a short duration after shooting.  Ideal for bending the ball.
 
-3.10 SELECT REFEREE
+===SELECT REFEREE===
 Yes or No, you may select any of the 24 referees.  The referees play a
 very important part in the game.
 
@@ -231,11 +221,11 @@ replaced with new tactics.
 
 1 to 2 players can play using a joystick .
 
-TEAM SELECTION screen (see  8.0)  provides  the  opportunity to select
+TEAM SELECTION screen (see  TEAM SELECTION)  provides  the  opportunity to select
 number of players and how they  are  to play i.e against the computer,
 against each other etc.
 
-==GAME OPTIONS
+==GAME OPTIONS==
 
 All the four options are selected via the main menu.
 
@@ -243,22 +233,19 @@ CAUTION : Before selecting the Game Options, select the required match
 conditions from the Options menu (see 3.0)
 
 
-7.1 SINGLE GAME
-
+===SINGLE GAME===
 Two players can play against the  computer or against each other.  One
 player game is against the computer.   On the AMIGA, 2players can play
 against 2 other players.
 
 On selecting this menu option, you will be asked
 
-Number of players : 1,2,3 or 4
+Number of players : 1 or 2
 Select Team screens give  you  the  opportunity  to select both teams.
 The winner of the toss decides whether  to  play Up or Down the pitch.
 The name of the referee is displayed.
 
-
-7.11 TACTICS
-
+====TACTICS====
 Select the tactics for the start of the match using the keyboard.  The
 tacticsSelect the tactics for the start of the match using the keyboard.  The
 tactics can be changed any time during  the match when the ball is out
@@ -269,27 +256,18 @@ keypad are assigned to Team  B.   Press  the  key and the players will
 move to the new tactical positions once  the ball comes back into play
 again.
 
-
-7.12 SUBSTITUTIONS
-
+====SUBSTITUTIONS====
 Two substitutions are allowed in  a  match.   Please see 19.0 for more
 information.
 
-
-
-7.2 INTERNATIONAL FRIENDLY
+===INTERNATIONAL FRIENDLY===
 
 This option allows you to play  a  single  game between any two chosen
 international teams.  On selecting  this  option,  a  list  of all the
 countries is presented.   Highlight  TEAM  A  and  the  first country.
 Press the F.B to confirm the choice.  Repeat the process for TEAM B.
 
-
-
-
-
-7.3 THE LEAGUE
-
+===THE LEAGUE===
 The league consists of 8 teams and  lasts 14 weeks.  There are 3 skill
 levels, Third, First and  International  at  which  the  league can be
 played.  Use the OPTIONS menu  to  set  the  skill level.  The default
@@ -297,33 +275,25 @@ skill level is 1st Division.   When  the  league option is selected in
 the main  menu,  the  league  with  appropriate  numbers  of  teams is
 displayed.  The following options are available.
 
-
-7.31 CHANGE TEAM NAMES
-
+====CHANGE TEAM NAMES====
 Move joystick up to highlight a  team  name.  Press F.B and the cursor
 will flash at the end of the team  name.  Use the keyboard to edit the
 name.  Move the J/S to highlight another team if required.
 
-
-7.32 SELECTING TEAM TO PLAY
-
+====SELECTING TEAM TO PLAY====
 When the table first appears,  the  letter  C  appears against all the
 teams to say that all  the  teams  are computer controlled.  To change
 the team to J/S  i.e  play  that  team  in  the  league.   Move J/S to
 highlight the team and press F1.
 
-
-7.33 LOADING PLAYER MANAGER TEAMS
-
+====LOADING PLAYER MANAGER TEAMS====
 Player Manager teams together with their current tactics can be loaded
 in the league.  To load  a  team,  move  the joystick to highlight the
 team you wish to replace with the  P.M team and press F3.  Insert your
 Player Manager Data Disk  in  the  drive  and  press  F.B.  Repeat the
 process to load other teams.
 
-
-7.34 LOADING PLAYER MANAGER DESIGNED TACTICS
-
+====LOADING PLAYER MANAGER DESIGNED TACTICS====
 The tactics designed in Player Manager can  be loaded for each team in
 the league.  Move the J/S to highlight  the team for which you wish to
 load new tactics and press F5.   Insert  P.M  data disk and press fire
@@ -335,43 +305,31 @@ the process if you wish  to  replace  other tactics.  Select DONE when
 finished.
 Repeat this process for other teams.
 
-
-7.35 LOAD
-
+====LOAD====
 This option allows you to load  a previously saved league and continue
 the game.  When this option  is  exercised,  none of the options above
 can be used.  Insert you data  disk  with your previously saved league
 in the drive and press the F.B select  the league you wish to play and
 press the F.B
 
-
-7.37 CONTINUE
-
+====CONTINUE====
 Select this option to play the league game.  The two teams to play the
 next match will be highlighted.  If both  teams had J for control, the
 computer will allocate J1 and J2 to the teams.
 
-
-
 The options at the bottom of  the  screen  will now display SAVE, PLAY
 MATCH and QUIT.
 
-
-7.38 SAVE
-
+====SAVE====
 Select this option to save  your  current  league.  Insert the disk in
 the drive and press the F.B.   Type  the  name under which you wish to
 save the league or use the displayed filename by highlighting it.
 
-
-7.39 QUIT
-
+====QUIT====
 The league is abandoned without saving  and the program returns to the
 main menu. (note - all league data will be lost!)
 
-
-7.40 PLAY MATCH
-
+===PLAY MATCH===
 The squad selection screens  for  each  team  are displayed next.  The
 game follows the procedure as detailed for single game.
 
@@ -381,20 +339,15 @@ CAUTION - It is up to players  to  ensure that there is no duplication
 of team names.  Name duplication may  cause the program to crash.  You
 are advised to save the league at regular intervals.
 
-
-7.4 THE CUP
-
+===THE CUP===
 The cup tournament is for 8  teams  and  is  on a knock out basis.  In
 case of a draw, there is extra  time.   If there is still no result, a
 sudden death penalty shoot out  feature  is  used to decide the result
 (See 15.0 for rules).
 
+==TEAM SELECTION==
 
-
-8.0 TEAM SELECTION
-
-8.1 PLAY OPTIONS
-
+===PLAY OPTIONS===
 Playing As A Team -  The  player  controls  the  player nearest to the
 ball.
 Playing In Position - The player  assumes  the identity i.e the skills
@@ -404,16 +357,12 @@ player assumes the identity of the substitute.
 
 YOU CAN NOT PLAY AS A KEEPER!
 
-1 to 4 players using J/S adaptor.
+1 to 2 players using joystick.
 
 TEAM MODE - Two players can  team  up  to play against the computer or
 other two players.  Both players can play in position.
 
-3 Players - Third player (J/S 3) plays in team mode with player 1.
-
-4 Players - Fourth Player (J/S 4) plays in team mode with player 2.
-
-1 Player only - Player 1 controls Team A using J/S 1.  He has a choice
+1 Player only - Player 1 controls Team A using joystick.  He has a choice
 of either playing as a team or playing in position.
 
 2 Players - Two players  can  play  in  team  mode against against the
@@ -430,28 +379,24 @@ selections.  If you wish to change  the  selection, move the J/S up or
 down to highlight a player  name  and  left  or right to highlight the
 shirt number.
 
-
-8.2 ONE PLAYER
+===ONE PLAYER===
 
 TEAM A
 
-8.21 PLAY AS TEAM
+====PLAY AS TEAM====
 
 Select JS.1 icon and press F.B.  Select DONE and press F.B.
 
-
-8.22 PLAY IN POSITION
+====PLAY IN POSITION====
 
 Select JS.1 icon and  press  F.B.   Move  J/S  to highlight the player
 whose identity you wish to assume and press F.B.  Select DONE.
 
-
-8.22 CANCEL PLAY IN POSITION OR CHANGE THE PLAYER
+====CANCEL PLAY IN POSITION OR CHANGE THE PLAYER====
 
 Highlight the selected player and press F.B.
 
-
-8.3 TWO PLAYERS
+===TWO PLAYERS===
 
 AGAINST EACH OTHER
 
@@ -466,70 +411,41 @@ TEAM MODE
 TEAM A - Players 1  &  2  select  JS.1  and  JS.2 respectively and the
 players identities.  Select DONE.
 
-
-8.4 THREE PLAYERS
-
-TEAM A : Player 1 select  JS.1  and  player 3 select JS.3.  Follow the
-procedure for Team Mode.
-
-TEAM B : Player 2  select  JS.2.   Select  DONE  to  play as team or a
-player and DONE to play in position.
-
-
-8.5 FOUR PLAYERS
-
-TEAM A : As for 3 Players
-
-TEAM B : Player 2 select  JS.2  and  Player 4 select JS.4.  Follow the
-procedure for Team Mode.
-
-
-8.6 SELECTING START TACTICS
-
+===SELECTING START TACTICS===
 The names of the 4  tactics  in  current  use  are displayed.  Use the
 keyboard as detailed in 7.11 to select the tactics at kick off.
 
+==PLAYER CONTROL==
 
-
-9.0 PLAYER CONTROL
-
-9.1 MOVEMENT
+===MOVEMENT===
 
 The player moves in all 8 joystick directions.
 
-
-9.2 HEADERS
+===HEADERS===
 
 If the ball is in the air,  pressing  the F.B will make the controlled
 player jump.  Move the J/S in the  direction in which you wish to head
 the ball when the player is in the air.
 
-
-9.3 BLOCKING TACKLE
+===BLOCKING TACKLE===
 
 The purpose of this tackle is to  gain possession of the ball from the
 opponent.  The  tackle  must  be  from  the  front  or  overtaking the
-opponent and getting possession of the ball  as it travels in front of
+opponent and getting possession of the ball as it travels in front of
 the player.  Tackling the player from behind is a FOUL.
 
-
-9.4 SLIDING TACKLE
-
+===SLIDING TACKLE===
 This tackle can be done from  any  direction.   A sliding tackle on an
 opponent without a ball is  a  FOUL.   If  the  ball is on the ground,
 press the F.B to do a sliding  tackle.  You must touch the ball before
 touching the opponent to avoid being penalised.  A sliding tackle from
 behind is a foul.
 
-
-9.5 SCISSOR KICK
-
+===SCISSOR KICK===
 Reverse the direction of the joystick when  the ball is in the air for
 a scissor kick.
 
-
-
-10.0 BALL CONTROL
+==BALL CONTROL==
 
 Kick Off 2 controls have been specially  designed for ease of use.  In
 a fast moving game and under  pressure,  there  is no time to remember
@@ -538,27 +454,20 @@ controls are simple and can be  learnt  and practiced to perfection in
 PRACTICE in the main menu.  The  ball control becomes even more deadly
 if AFTER TOUCH is used.
 
-
-10.1 DRIBBLE BALL
-
+===DRIBBLE BALL===
 The ball travels in  front  of  the  player.   The distance it travels
 depends on the speed of the player at the time of contact.
 
 
-10.2 SHOOT BALL
-
+===SHOOT BALL===
 Press the F.B AFTER  touching  the  ball  will  shoot  the ball in the
 direction the player is facing.
 
-
-10.3 STOP BALL
-
+===STOP BALL===
 Press F.B BEFORE touching the  ball  will  stop  the ball and give the
 player total control.
 
-
-10.4 PASS BALL
-
+===PASS BALL===
 You must stop the ball before you  can  pass it.  Keep the F.B pressed
 down and move the  joystick  in  the  direction  you  wish to pass and
 release the F.B.  Releasing the F.B when J/S is centered will take you
@@ -566,15 +475,11 @@ back into DRIBBLE  action.   The  player  will  turn  in  the joystick
 direction and start dribbling  in  that  direction.   He will shoot in
 that direction if F.B is pressed.
 
-
-10.5 CHIP BALL
-
+===CHIP BALL===
 If the ball is on  the  ground,  reversing the joystick direction will
 chip the ball.
 
-
-10.6 AFTER TOUCH
-
+===AFTER TOUCH===
 This option can be activated in the option menu.  It allows the player
 to alter the direction of the  ball  by  a small amount after shooting
 the ball.  The direction  must  be  changed immediately after shooting
@@ -583,15 +488,11 @@ After touch can be used to devastating effect with practice.  Move the
 joystick in the direction  you  wish  to  go(forwards positions of the
 joystick only) immediately after shooting the ball.
 
-
-
-11.0 KEEPER CONTROL
+==KEEPER CONTROL==
 
 The keeper is computer controlled except in the following cases.
 
-
-11.1 DEFENDING A PENALTY
-
+===DEFENDING A PENALTY===
 The control is transferred to the  main  player.  The keeper stands in
 the centre and starts to  move  as  soon  as  the F.B is pressed.  The
 longer the F.B is kept pressed, the bigger the movement.
@@ -606,12 +507,7 @@ longer the F.B is kept pressed, the bigger the movement.
                                   H - Dive Right Ground
                                   J - Stoop
 
-
-
-
-
-11.2 TAKING GOAL KICKS
-
+===TAKING GOAL KICKS===
 The keeper automatically takes the goal  kick unless the player wishes
 to do so.  If the  player  does  not  exercise the option quickly, the
 computer will take control.   Move  the  J/S  in the required position
@@ -623,29 +519,20 @@ A - Hard Ahead             B - Hard Left            C - Hard Right
 D - Medium Left            E - Medium Ahead         F - Medium Right
 G - Soft Left              H - Soft Right           J - Soft Ahead
 
+===CONTROLS===
+Joystick Only.
 
-11.3 CONTROLS
-
-AMIGA - Joystick Only.
-
-Players 3 and 4 require  special  joystick  adaptor available from all
-good computer stores.
-
-
-11.4 QUIT THE MATCH OR PRACTICE
-
+===QUIT THE MATCH OR PRACTICE===
 You can quit a single  game,  international friendly or practice mode.
 A league game or cup match can not be terminated.
 
-AMIGA - Press ESC Key
+Press ESC Key
 
+==SET PIECES==
 
+===CORNER KICKS===
 
-12.0 SET PIECES
-
-12.1 CORNER KICKS
-
-12.11 SELECTING TYPE OF CORNER KICK
+====SELECTING TYPE OF CORNER KICK====
 
 There is a  choice  of  9  corner  kicks.   A  selection panel appears
 showing the goal post and  the  corner  flag.   The selection panel is
@@ -663,17 +550,14 @@ Once the ball has been kicked normal ball controls apply.
 Look at the scanner to see  the  positions  of your players and select
 the suitable corner kick and press the F.B
 
-
-12.12 STRENGTH OF CORNER KICKS
+====STRENGTH OF CORNER KICKS====
 
 The duration for which the F.B is  kept  pressed to select the type of
 corner kick determines the strength of the  kick.  A short tap will do
 a short kick i.e pass to  a  player  near  to the corner flag.  A hard
 kick will take the ball to player player across or out of play.
 
-
-
-12.2 PENALTIES
+===PENALTIES===
 
 The angle and the  height  of  the  shot  are  controlled enabling the
 penalty taker to put the ball anywhere in the net.
@@ -688,14 +572,12 @@ top of the goal.  A short tap will keep the ball on the ground.
 During the penalties, the keeper control is passed to the main player.
 See KEEPER CONTROL instructions.
 
-
-12.3 FREE KICKS
+===FREE KICKS===
 
 Set piece free kick is played if there is a foul by a defending player
 within a narrow sector in front of the goalmouth.
 
-
-12.31 TAKING FREE KICKS
+====TAKING FREE KICKS====
 
 The Ball is placed where the foul  occurred.  A few yards away on each
 side of the ball stands a player  from  the team taking the free kick.
@@ -733,7 +615,6 @@ F  More Right Bias              Swerve Ball
 G  Pass Ball To Left Player
 H  Pass Ball To Right Player
 
-
 Only the player taking the free  kick  has swerve control of the ball.
 
 With practice, he can dip  the  ball  into  opposition net or bend the
@@ -744,14 +625,12 @@ another player, normal ball controls are resumed.
 If the main player jumps over the ball, in the absence of a controlled
 player, one of the players next to the ball will take the kick.
 
-
-12.32 DEFENDING FREE KICK
+====DEFENDING FREE KICK====
 
 A wall of players is formed 10 yards (approx.) from the ball in direct
 path of the ball.
 
-
-12.4 THROW IN
+===THROW IN===
 
 The computer automatically throws the  ball  to  the nearest player in
 position to receive the ball.  The  control  can be however assumed by
@@ -761,24 +640,21 @@ a short throw.  If the  F.B  is  not  pressed  soon, the computer will
 automatically take a throw.  The three backward positions are used for
 LONG throws.
 
-
-13.0 SUBSTITUTIONS
+==SUBSTITUTIONS==
 
 You are allowed to make 2 substitutions during the match.  You can not
 substitute a player who has  been  given  a  RED  card by the referee.
 Only ONE substitution at a time  can  be  made.  The KEEPER CAN NOT BE
 SUBSTITUTED.
 
-
-13.1 SELECTING SUBSTITUTE
+===SELECTING SUBSTITUTE===
 
 Player 12 Team A     F4
 Player 14 Team A     F5
 Player 12 Team B     F9
 Player 14 Team B     F10
 
-
-13.2 MAKING SUBSTITUTION
+===MAKING SUBSTITUTION===
 
 When the  ball  goes  out  of  play,  you  will  be  asked  to  make a
 substitution.
@@ -788,9 +664,7 @@ down cursor keys to scan through  the  players on the field.  When the
 name of the player you  wish  to  substitute  appears, press the SPACE
 BAR.
 
-
-
-14.0 TACTICS
+==TACTICS==
 
 Tactics employed by each side greatly  influences the gameplay and the
 results.  The players move into  their tactical positions and provided
