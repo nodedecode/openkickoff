@@ -11,18 +11,8 @@ Here is the list of tools used in the development process
   * The Lightweight Java Game Library (http://www.lwjgl.org/)
   * EBuild - ant based generic build system for Java projects developed in Eclipse (http://ebuild.firefang.net/)
 
-How to use Eclipse to facilitate the process of deploying a Slick-based game using Java WebStart. For more background, refer to the following links. 
+Here is a list of useful links which helps me to setup my development environemnt :
 
-#summary One-sentence summary of this page.
-
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  * Slick + Eclipse Tutorial (http://www.cs.bsu.edu/homepages/pvg/misc/slick_eclipse_tutorial.php)
+  * Slick + Eclipse + JavaWebStart Tutorial (http://www.cs.bsu.edu/homepages/pvg/misc/slick_jws_tutorial.php)
+  * Slick Wiki (http://slick.cokeandcode.com/wiki/doku.php?id=spiegel_tutorials)
