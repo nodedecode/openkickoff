@@ -2,10 +2,10 @@ This page gives a list of useful links to find some support during the developme
 
 ==Programming related==
 
-  * Java Game Forum (http://www.javagaming.org/index.php)
-  * Slick Forum (http://slick.javaunlimited.net/index.php)
-  * Patterns for Game Design (http://updownleftleft.com/wiki/)
-  * Another Early Morning (http://www.anotherearlymorning.com/)
+  * [http://www.javagaming.org/index.php Java Game Forum]
+  * [http://slick.javaunlimited.net/index.php Slick Forum]
+  * [http://updownleftleft.com/wiki/ Patterns for Game Design]
+  * [http://www.anotherearlymorning.com/ Another Early Morning]
 
 ==Kick off resources==
 
