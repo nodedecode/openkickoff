@@ -1,0 +1,3 @@
+This page gives a list of useful links to find some support during the development process
+
+  * http://www.javagaming.org/index.php
