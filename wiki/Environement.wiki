@@ -9,6 +9,7 @@ Here is the list of tools used in the development process
   * Java SE Development Kit (http://java.sun.com/javase/downloads/index.jsp)
   * Slick - 2D Game Library based on LWJGL (http://slick.cokeandcode.com/index.php)
   * The Lightweight Java Game Library (http://www.lwjgl.org/)
+  * Phys2D is a 2D physics engine written in Java (http://www.cokeandcode.com/phys2d/)
   * Apache Ant is a Java-based build tool (http://ant.apache.org/index.html)
   * EBuild - ant based generic build system for Java projects developed in Eclipse (http://ebuild.firefang.net/)
   * Subclipse is an Eclipse Team Provider plug-in (http://subclipse.tigris.org/)
