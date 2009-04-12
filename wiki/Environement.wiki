@@ -1,5 +1,5 @@
 #labels Phase-Implementation,Featured,Tools
-This page describes the set of tools used for developing this application and how to install/configure it.
+This page describes the set of tools used to develop this application and how to install/configure them.
 
 = Development tools =
 
