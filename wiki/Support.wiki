@@ -12,4 +12,4 @@ This page gives a list of useful links to find some support during the developme
   * [http://ko-gathering.com/forum/ Kick Off Association]
   * [http://ko-gathering.com/forum/viewtopic.php?f=5&t=12517 Everything you'll ever need to know about KO2]
   * [http://www.ko-gathering.com/wiki/index.php?title=Category:KORPS Kick Off Research Project Society]
-  * [http://www.mways.co.uk/amiga/howtocode/]
+  * [http://www.mways.co.uk/amiga/howtocode/ Understanding original KO2 code]
