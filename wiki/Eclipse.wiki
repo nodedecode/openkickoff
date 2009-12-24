@@ -1,7 +1,5 @@
 #labels Phase-Implementation
-#Eclipse Instructions
-
-= Introduction =
+= Eclipse Instructions =
 
 This section assumes you have Eclipse and are familiar with the environment and that you have OpenKickOff currently living somewhere on your hard drive. It also is assumed that you do not have Slick as a separate project. Please see the Slick Instructions if you wish to have Slick checked out as a second project (encouraged for developers).
 
