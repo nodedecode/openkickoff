@@ -5,7 +5,7 @@ This section assumes you have Eclipse and are familiar with the environment and 
 
   # Run ant setup at the command line
   # Import the project into Eclipse
-  # Right-click the Shade project > “Build Path” > “Configure Build Path…”
+  # Right-click the OpenKickOff project > “Build Path” > “Configure Build Path…”
   # Select the “Libraries” tab
   # Expand lwjgl.jar, select “Native library location”, select Edit
   # Select Workspace then navigate to lib/natives/
