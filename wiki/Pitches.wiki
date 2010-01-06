@@ -7,6 +7,6 @@ In openkickoff it is nearly the same except that bitmap has been converted from 
 
 TilED is a generic tool for tile map editing and can be found at: http://mapeditor.org/ 
 
-Whith [http://slick.cokeandcode.com/ Slick] library, you can use the Class [http://slick.cokeandcode.com/javadoc/org/newdawn/slick/tiled/TiledMap.html TiledMap] which is able to create a new tile map based on a given TMX file.
+With [http://slick.cokeandcode.com/ Slick] library, you can use the Class [http://slick.cokeandcode.com/javadoc/org/newdawn/slick/tiled/TiledMap.html TiledMap] which is able to create a new tile map based on a given TMX file.
 
 More infos on [http://ko-gathering.com/wiki/index.php?title=Pitches KORPS] (Kick Off Research Project Society)
