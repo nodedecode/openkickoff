@@ -14,7 +14,7 @@ Here is the list of tools used in the development process
   * [http://ebuild.firefang.net/ EBuild - An ant based generic build system for Java projects developed in Eclipse]
   * [http://subclipse.tigris.org/ Subclipse is an Eclipse Team Provider plug-in]
 
-Here is a list of useful links which helps me to setup my development environemnt :
+Here is a list of useful links which helps me to setup my development environment :
 
   * [http://www.cs.bsu.edu/homepages/pvg/misc/slick_eclipse_tutorial.php Slick + Eclipse Tutorial]
   * [http://www.cs.bsu.edu/homepages/pvg/misc/slick_jws_tutorial.php Slick + Eclipse + JavaWebStart Tutorial]
