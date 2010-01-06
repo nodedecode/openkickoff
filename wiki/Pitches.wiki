@@ -9,4 +9,23 @@ TilED is a generic tool for tile map editing and can be found at: http://mapedit
 
 With [http://slick.cokeandcode.com/ Slick] library, you can use the Class [http://slick.cokeandcode.com/javadoc/org/newdawn/slick/tiled/TiledMap.html TiledMap] which is able to create a new tile map based on a given TMX file.
 
+openkickoff version include the following four pitches
+
+  * Normal
+  * Wet
+  * Soggy
+  * Plastic 
+
+http://ko-gathering.com/wiki/images/c/c5/Ko2_pitch_normal_snapshot.png
+ Normal Pitch
+
+http://ko-gathering.com/wiki/images/1/12/Ko2_pitch_wet_snapshot.png
+ Wet Pitch
+
+http://ko-gathering.com/wiki/images/8/82/Ko2_pitch_soggy_snapshot.png
+ Soggy Pitch
+
+http://ko-gathering.com/wiki/images/b/be/Ko2_pitch_artificial_snapshot.png
+ Plastic Pitch
+
 More infos on [http://ko-gathering.com/wiki/index.php?title=Pitches KORPS] (Kick Off Research Project Society)
