@@ -1,4 +1,4 @@
-#summary One-sentence summary of this page.
+#summary What's Dino Dini said about Kick Off gameplay.
 #labels Phase-Requirements
 
 = Dino Dini said =
