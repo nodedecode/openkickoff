@@ -1,4 +1,4 @@
-#summary This page describes the picth used in openkickoff.
+#summary This page describes some information of the picth used in openkickoff.
 #labels Phase-Implementation
 
 The pitches in the games in the Kick Off Series are stored on the floppies using a technique called tiling. Two files are used for each pitch: A bitmap which contains a number of 16 x 16 pixel tiles and a tilemap which holds indices into the bitmap. The size of the maps are 80 x 96 tiles and consequently the size of a full pitch is 1280 x 1536 pixels. 
