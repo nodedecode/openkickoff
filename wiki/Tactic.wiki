@@ -1,0 +1,11 @@
+#summary Details of technical aspects about tactics in openkickoff.
+
+= Introduction =
+
+The tactics positioned players depending on position of the ball on the pitch irrespective as to which side had the possession of the ball. 
+
+= Details =
+
+Tactics can be designed using the Player Manager designer
+The pitch is divided in 12 areas like this 
+
