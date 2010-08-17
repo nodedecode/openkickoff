@@ -9,3 +9,4 @@ The tactics positioned players depending on position of the ball on the pitch ir
 Tactics can be designed using the Player Manager designer
 The pitch is divided in 12 areas like this 
 
+<img align="left" src="http://openkickoff.googlecode.com/files/tacticregions.png" alt="tacticregions" style="float:right">
