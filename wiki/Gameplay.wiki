@@ -49,3 +49,15 @@ This makes collecting a loose ball a difficult thing to do. There is no easy way
 Once your player in in possession of the ball, sliding is no longer possible and so the problem no longer arrises.
 
 How does this match people's experiences of the game?
+
+=Kick Off was the first football game in which the ball was not glued on the players's feet. How did you come up with that?=
+
+This came about because I am fanatical about simulation. Even though I was never an expert on football, I am very observant and good at breaking things down into their component parts. The development process started with me wanting to *simulate* football, down to the physics of it. I am a kind of a nut about simulations - it gives me a kick when I simulate anything from air friction to referee behavior to negotiations to how the ball bounces off the post. Nothing gives me more pleasure in game development. Any way, this is how I developed the game:
+
+1. The first thing I made was the pitch. Logical really. Decided to make it full size, decided how much of the pitch you could see at any one time, what the viewing angle should be, the size the sprites and so on.
+
+2. Next I made the ball. The ball is an entity in its own right. It behaves like a real ball in a lot of ways - it bounces with varying degrees of elasticity (bounce height), it has air and ground friction, it falls under gravity. So I could see the height I added the shadow. A ball should be a ball and always a ball. Apart from when the ball is carried, it is always a free entity. You can see where this is leading....
+
+3. Next I made a single player. Naturally not wanting to cheat my simulation of a ball, I made the player dribble by bumping into the ball and knocking it forward. Ground friction will allow the player to catch up naturally. It is the same as what happens in real life.
+
+4. After this came much struggling with trying to make it playable. Some people said I made it too hard to dribble. It is hard, but so is dribbling in football. The key thing to remember is that when you dribble you can't manipulate the ball if it has moved out of your reach. This is what makes football so exciting and why it is hard to score goals in the real game. If the ball sticks to the foot, then you might as well carry the ball in your hands. This is such a fundamental part of the mechanics of football I did not want to compromise it.
